@@ -1,38 +1,21 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
-# ¡Hola! Soy Gonzalo Ocaranza, Junior Full
+# ¡Hi, I'm Gonzalo ocaranza, a Junior Full Stack Developer!
 
 <!-- badge -->
-<div>
-  <a href="mailto:gonzalo.ocaranza@example.com" target="_blank">
-    <img
-      height="35"
-      alt="gmail logo"
-      src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/gonzaloo" target="_blank">
-    <img
-      height="35"
-      alt="linkedin logo"
-      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge"
-    />
-  </a>
-  <a href="https://gonzaloo.dev" target="_blank">
-    <img
-      height="35"
-      alt="portfolio logo"
-      src="https://img.shields.io/static/v1?message=Portfolio&logo=about-dot-me&label=&color=7F167F&logoColor=white&labelColor=&style=for-the-badge"
-</div>
 
 <br/>
+<br/>
+
+ ## About me
 
 I'm a university student and software developer from Argentina.
 
 I'm passionate about tech and always exploring new tools. Here's a bit about me:
 
 🔭 Currently working on projects for NGOs and building web software.
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 🌱 Always learning and leveling up my backend and frontend skills.
 
@@ -44,7 +27,10 @@ I'm passionate about tech and always exploring new tools. Here's a bit about me:
 
 😄 You can contact me using the links above.
 
-Some of the languages and technologies I use often:
+<br/>
+<br/>
+
+## Some of the languages and technologies I use often  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
 
 <div>
   <img
@@ -115,30 +101,45 @@ Some of the languages and technologies I use often:
   />
 </div>
 
-##
+<br/>
 
-Y acá algunos gráficos interesantes de mi actividad de GitHub:
+## Github Stats
+
+Here’s my GitHub activity:
+
 
 <!-- grph -->
-<div align="left">
-  <div>
+<p align="rigth">
+  <a href="https://github.com/gonzaoca09">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gonzaoca09&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" />
+  </a>
+</p>
+
+<p align="center">
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gonzaoca09&show_icons=true&locale=en" alt="akash-chowrasia" width="410" />
+</p>
+<br/>
+
+# Get in touch with me 📩
+
+<div>
+  <a href="mailto:gonzalo.ocaranza@example.com" target="_blank">
     <img
-      height="150"
-      alt="stats graph"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gonzaloo&theme=vue"
+      height="35"
+      alt="gmail logo"
+      src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge"
     />
+  </a>
+  <a href="https://www.linkedin.com/in/gonzaloo" target="_blank">
     <img
-      height="150"
-      alt="languages graph"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gonzaloo&theme=vue"
+      height="35"
+      alt="linkedin logo"
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge"
     />
-  </div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gonzaloo&theme=vue" alt="profile detail" />
-  <img src="https://raw.githubusercontent.com/gonzaloo/gonzaloo/output/snake/snake.svg" alt="Snake animation" />
+  </a>
+  <a href="https://gonzaloo.dev" target="_blank">
+    <img
+      height="35"
+      alt="portfolio logo"
+      src="https://img.shields.io/static/v1?message=Portfolio&logo=about-dot-me&label=&color=7F167F&logoColor=white&labelColor=&style=for-the-badge"
 </div>
-
-##
-
-Si querés hacerme alguna consulta o simplemente saludar, no dudes en contactarme.
-
-¡Que tengas un excelente día!
