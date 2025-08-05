@@ -1,49 +1,58 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
-# ¡Hola! Soy Gonzalo Ocaranza.
+# ¡Hola! Soy Gonzalo Ocaranza, Junior Full
 
 <!-- badge -->
 <div>
-  <a href="https://t.me/gonzaloo" target="_blank">
-    <img
-      height="35"
-      alt="telegram logo"
-      src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge"
-    />
-  </a>
   <a href="mailto:gonzalo.ocaranza@example.com" target="_blank">
     <img
       height="35"
       alt="gmail logo"
-      src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=A084DC&logoColor=white&labelColor=&style=for-the-badge"
+      src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/gonzaloo" target="_blank">
+    <img
+      height="35"
+      alt="linkedin logo"
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge"
     />
   </a>
   <a href="https://gonzaloo.dev" target="_blank">
     <img
       height="35"
-      alt="website logo"
-      src="https://img.shields.io/static/v1?message=Website&logo=microsoft-outlook&label=&color=7F167F&logoColor=white&labelColor=&style=for-the-badge"
-    />
-  </a>
+      alt="portfolio logo"
+      src="https://img.shields.io/static/v1?message=Portfolio&logo=about-dot-me&label=&color=7F167F&logoColor=white&labelColor=&style=for-the-badge"
 </div>
 
 <br/>
 
-Soy estudiante universitario y desarrollador de software de Argentina.
+I'm a university student and software developer from Argentina.
 
-Me apasiona la tecnología y siempre estoy explorando nuevas herramientas. Un poco más sobre mí:
+I'm passionate about tech and always exploring new tools. Here's a bit about me:
 
-- 🔭 Actualmente trabajo en proyectos para ONGs y desarrollo de software web.
-- 🌱 Estoy aprendiendo y mejorando constantemente mis habilidades en backend y frontend.
-- 👯 Me gusta colaborar en proyectos que ayuden a la comunidad o involucren tecnologías modernas.
-- 💼 Puedes ver algunos proyectos en mis repositorios destacados.
-- 💬 Consultame sobre programación, tecnología, o desarrollo web.
-- 😄 Podés contactarme usando los enlaces de arriba.
+🔭 Currently working on projects for NGOs and building web software.
 
-Estos son algunos de los lenguajes y tecnologías que uso con frecuencia:
+🌱 Always learning and leveling up my backend and frontend skills.
+
+👯 I love collaborating on projects that help the community or involve modern tech.
+
+💼 Check out some of my work in the pinned repos.
+
+💬 Feel free to reach out if you want to talk about coding, tech, or web dev.
+
+😄 You can contact me using the links above.
+
+Some of the languages and technologies I use often:
 
 <div>
+  <img
+    height="30"
+    width="42"
+    alt="html logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+  />
   <img
     height="30"
     width="42"
@@ -53,26 +62,20 @@ Estos son algunos de los lenguajes y tecnologías que uso con frecuencia:
   <img
     height="30"
     width="42"
-    alt="php logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+    alt="typescript logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
   />
   <img
     height="30"
     width="42"
-    alt="mysql logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+    alt="nodejs logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
   />
   <img
     height="30"
     width="42"
-    alt="laravel logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="tailwindcss logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+    alt="express logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
   />
   <img
     height="30"
@@ -83,8 +86,32 @@ Estos son algunos de los lenguajes y tecnologías que uso con frecuencia:
   <img
     height="30"
     width="42"
-    alt="nodejs logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+    alt="nextjs logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="astro logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="python logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="java logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="postgresql logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
   />
 </div>
 
