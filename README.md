@@ -123,14 +123,14 @@ Here’s my GitHub activity:
 # Get in touch with me 📩
 
 <div>
-  <a href="mailto:gonzalo.ocaranza@example.com" target="_blank">
+  <a href="mailto:gonzaoca9@gmail.com" target="_blank">
     <img
       height="35"
       alt="gmail logo"
       src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge"
     />
   </a>
-  <a href="https://www.linkedin.com/in/gonzaloo" target="_blank">
+  <a href="https://www.linkedin.com/in/gocaranza/" target="_blank">
     <img
       height="35"
       alt="linkedin logo"
