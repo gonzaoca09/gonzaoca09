@@ -14,16 +14,16 @@ I'm a university student and software developer from Argentina.
 
 I'm passionate about tech and always exploring new tools. Here's a bit about me:
 
-🔭 Currently working on projects for NGOs and building web software.
+🔭 Currently working on my portfolio website, and with more ideas/projects in mind.
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 🌱 Always learning and leveling up my backend and frontend skills.
 
-👯 I love collaborating on projects that help the community or involve modern tech.
+🗺️ I'm a curious person, always trying to better understand the world around me.
 
 💼 Check out some of my work in the pinned repos.
 
-💬 Feel free to reach out if you want to talk about coding, tech, or web dev.
+💬 Feel free to reach out if you want to talk about coding, tech, web dev, or anything!!
 
 😄 You can contact me using the links above.
 
