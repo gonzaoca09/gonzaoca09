@@ -1,145 +1,39 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=648241&height=120&section=header"/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
+## About me
 
-# ¡Hi, I'm Gonzalo ocaranza, a Junior Full Stack Developer!
-
-<!-- badge -->
-
-<br/>
+Full-stack developer interested in backend development and software architecture. Focused on building practical software like my latest project [**Chess Analytics**](https://github.com/gonzaoca09/chess-analytics),is an application that analyzes your chess games and provides insights to help you improve.
+### ▪️[Linkedin](https://www.linkedin.com/in/gocaranza/?skipRedirect=true)
 <br/>
 
- ## About me
+## Projects 
 
-I'm a university student and software developer from Argentina.
+### - [**Chess Analytics**](https://github.com/gonzaoca09/chess-analytics) - (Work in progress) 
 
-I'm passionate about tech and always exploring new tools. Here's a bit about me:
+Analyze your chess games, explore detailed statistics, and identify opportunities for improvement.
 
-🔭 Currently working on my portfolio website, and with more ideas/projects in mind.
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+### - [My Portfolio](https://github.com/gonzaoca09/portfolio.v1) - (Work in progress) 
 
-🌱 Always learning and leveling up my backend and frontend skills.
-
-🗺️ I'm a curious person, always trying to better understand the world around me.
-
-💼 Check out some of my work in the pinned repos.
-
-💬 Feel free to reach out if you want to talk about coding, tech, web dev, or anything!!
-
-😄 You can contact me using the links above.
-
-<br/>
-<br/>
-
-## Some of the languages and technologies I use often  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
-
-<div>
-  <img
-    height="30"
-    width="42"
-    alt="html logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="javascript logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="typescript logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="nodejs logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="express logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="react logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="nextjs logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="astro logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="python logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="java logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="postgresql logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-  />
-</div>
+A modern portfolio website built to showcase my projects, experience, and technical skills.
 
 <br/>
 
-## Github Stats
+## Technologies
 
-Here’s my GitHub activity:
-
-
-<!-- grph -->
-<p align="rigth">
-  <a href="https://github.com/gonzaoca09">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gonzaoca09&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" />
-  </a>
-</p>
-
-<p align="center">
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gonzaoca09&show_icons=true&locale=en" alt="akash-chowrasia" width="410" />
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java" height="28" alt="Java"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
 </p>
 <br/>
 
-# Get in touch with me 📩
+##
 
-<div>
-  <a href="mailto:gonzaoca9@gmail.com" target="_blank">
-    <img
-      height="35"
-      alt="gmail logo"
-      src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/gocaranza/" target="_blank">
-    <img
-      height="35"
-      alt="linkedin logo"
-      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge"
-    />
-  </a>
-  <a href="https://gonzaloo.dev" target="_blank">
-    <img
-      height="35"
-      alt="portfolio logo"
-      src="https://img.shields.io/static/v1?message=Portfolio&logo=about-dot-me&label=&color=7F167F&logoColor=white&labelColor=&style=for-the-badge"
-</div>
+Currently based in Argentina and open to new opportunities.
+
+Feel free to connect with me on LinkedIn.
